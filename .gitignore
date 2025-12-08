@@ -21,3 +21,5 @@ coverage/
 .cache/
 config.py
 bin/
+python/
+requests_python/
